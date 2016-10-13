@@ -1,1 +1,2 @@
-# mosca-server
+# Mosca Server
+Develop by Minh Huynh
